@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://arkgas.github.io/goit-js-hw-06/
